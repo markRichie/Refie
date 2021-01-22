@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583344530102",
+    "firebase_url": "https://refie-b5bdd.firebaseio.com",
+    "project_id": "refie-b5bdd",
+    "storage_bucket": "refie-b5bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583344530102:android:087ae9e9de72eeeedcbc17",
+        "android_client_info": {
+          "package_name": "com.kochchi.refie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583344530102-p3lt2jfne2c1pf0ve5tial0oglrhu9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMRsFd8rcG2TR_6D9N5JhknVDlGcaKL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583344530102-p3lt2jfne2c1pf0ve5tial0oglrhu9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
